@@ -1,0 +1,2 @@
+@reboot arp -e | grep : | cut -d ' ' -f 1,21 > /tmp/init_arptab.txt
+*/2 * * * * bash $HOME/mitm_checker.sh

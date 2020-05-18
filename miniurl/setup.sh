@@ -8,5 +8,6 @@ cp miniurl.py $HOME
 chmod +x $HOME/miniurl.py
 echo "#!/usr/bin/bash" >> /usr/local/bin/miniurl
 echo "python3 $HOME/miniurl.py" >> /usr/local/bin/miniurl
+chmod +x /usr/local/bin/miniurl
 python3 -m pip install -r requirements.txt
 echo "installation complete!"

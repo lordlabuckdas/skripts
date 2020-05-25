@@ -7,7 +7,7 @@
 * comment and uncomment the file accordingly
 * added setup.sh file for linux users which installs geckodriver and adds it to PATH (/usr/local/bin)
 * setup.sh makes **miniurl** a command for better accessibility
-* new: made a crude workaround for executable annd python call of miniurl, because of problems with ./miniurl call
+* new: made a crude workaround for executable and python call of miniurl, because of problems with ./miniurl call
 
 ### usage
 

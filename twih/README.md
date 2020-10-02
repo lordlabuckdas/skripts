@@ -1,4 +1,4 @@
-# OnThisDay
+# This Week in History
 
 python script to fetch the highlights of the week for the social media of college's quiz club
 
@@ -6,16 +6,16 @@ python script to fetch the highlights of the week for the social media of colleg
 
 ```
 $ git clone https://github.com/lordlabuckdas/skripts.git; cd skripts/onthisday
-# or wget https://raw.githubusercontent.com/lordlabuckdas/skripts/master/onthisday/onthisday.py
+# or wget https://raw.githubusercontent.com/lordlabuckdas/skripts/master/twih/twih.py
 $ python3 -m pip install -r requirements.txt
-$ chmod +x onthisday.py
+$ chmod +x twih.py
 ```
 
 ## usage
 
-`$ python3 onthisday.py -d 29.08` (in the format DD.MM)
+`$ python3 twih.py -d 29.08` (in the format DD.MM)
 
-or `$ ./onthisday.py -d 29.08`
+or `$ ./twih.py -d 29.08`
 
 then, check `hlights.txt` in the same folder as the python script for the highlights of the week
 

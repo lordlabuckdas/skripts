@@ -9,8 +9,8 @@
 
 ### installation and execution
 
-> git clone https://github.com/lordlabuckdas/skripts.git ; cd skripts/cppcompile ### or just download the script 
+> $ git clone https://github.com/lordlabuckdas/skripts.git ; cd skripts/cppcompile ### or just download the script 
 >
-> chmod +x cppcompile.sh
+> $ chmod +x cppcompile.sh
 >
-> ./cppcompile.sh
+> $ ./cppcompile.sh

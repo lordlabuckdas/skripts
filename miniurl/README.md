@@ -13,22 +13,22 @@
 
 1. if you want to run as a file
 
-> git clone https://github.com/lordlabuckdas/skripts.git
+> $ git clone https://github.com/lordlabuckdas/skripts.git
 >
-> cd skripts/miniurl
+> $ cd skripts/miniurl
 >
-> python3 -m pip install -r requirements.txt
+> $ python3 -m pip install -r requirements.txt
 >
-> python3 miniurl.py
+> $ python3 miniurl.py
 
 2. if you want to run as a command
 
-> git clone https://github.com/lordlabuckdas/skripts.git
+> $ git clone https://github.com/lordlabuckdas/skripts.git
 >
-> cd skripts/miniurl
+> $ cd skripts/miniurl
 >
-> chmod +x setup.sh
+> $ chmod +x setup.sh
 >
-> miniurl ### will launch the program
+> $ miniurl ### will launch the program
 
 **note :** have your link copied before running the program

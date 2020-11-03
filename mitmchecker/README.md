@@ -14,4 +14,4 @@
 >
 > ./setup.sh
 
-**note :** the cron job being set up overwrites the exisiting cron jobs. in case you want to add this cron job, copy the contents of [cronjob](cronjob.txt), type ***crontab -e*** and paste them there after commenting out the corresponding line in [setup](setup.txt)
+**note :** the cron job being set up overwrites the exisiting cron jobs. in case you want to add this cron job, copy the contents of [cronjob](./cronjob.txt), type ***crontab -e*** and paste them there after commenting out the corresponding line in [setup](./setup.sh)

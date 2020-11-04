@@ -4,7 +4,7 @@ python script to fetch the highlights of the week for the social media of colleg
 
 ## installation and execution
 
-```
+```console
 $ git clone https://github.com/lordlabuckdas/skripts.git; cd skripts/onthisday
 # or wget https://raw.githubusercontent.com/lordlabuckdas/skripts/master/twih/twih.py
 $ python3 -m pip install -r requirements.txt

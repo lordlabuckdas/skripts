@@ -6,7 +6,9 @@
 >
 > "oh my god"
 
-### index of scripts
+**[[ destructuring this repo to gists soon ]]**
+
+## index of scripts
 
 * [**z**](https://github.com/lordlabuckdas/skripts/tree/master/z) : zathura + pandoc wrapper script to display md and pdf files
 * [**cppcompile**](https://github.com/lordlabuckdas/skripts/tree/master/cppcompile) : script to edit your c++ code and input file, compile it, and run it

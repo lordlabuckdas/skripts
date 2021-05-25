@@ -6,7 +6,7 @@
 >
 > "oh my god"
 
-**[[ destructuring this repo to gists soon ]]**
+**[[ destructured to [gists](https://gist.github.com/lordlabuckdas) ]]**
 
 ## index of scripts
 
